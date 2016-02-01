@@ -6,7 +6,6 @@ public class Test_demo {
 		// TODO Auto-generated method stub
 		System.out.println("what are you doing?");
 		System.out.println("how do you do!");
-		System.out.println("sdfdfsdffdsfsdfsdfds");
 	}
 
 }
