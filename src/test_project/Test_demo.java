@@ -7,6 +7,8 @@ public class Test_demo {
 		System.out.println("what are you doing?");
 		System.out.println("how do you do!");
 		System.out.println("sdfdfsdffdsfsdfsdfds");
+		System.out.println("1234567890");
+		System.out.println("what's your name?");
 	}
 
 }
